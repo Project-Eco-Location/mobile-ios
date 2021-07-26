@@ -5,6 +5,8 @@
 <img src= "/image.png" width="40%" >
 </div>
 
+### App construído completamente na Framework SwiftUI seguindo a Arquitetura de Software Movel View ViewModel (MVVM)
+
 ## Requirements
 
 - iOS 14.0+
